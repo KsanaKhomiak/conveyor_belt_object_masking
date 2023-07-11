@@ -4,14 +4,11 @@ Detection and masking of conveyor belt
 Project created to test opportunity of conveyor belt tracking and masking for further damage analysis using drone footage.
 
 
-Masking was performed by thresholding in HSV colour model.
-
-![image](https://github.com/KsanaKhomiak/conveyor_belt_object_masking/assets/106553826/7d993078-4f36-430a-b135-7d28754c3b1e)
-
-
+Masking was performed by thresholding in HSV and RGB colour models.
 Result include approximate mask of the conveyor and applyed tracking window:
 
-![image](https://github.com/KsanaKhomiak/conveyor_belt_object_masking/assets/106553826/30bcc441-da0d-4cb4-a0a7-537f08a51f9a)
+![image](https://github.com/KsanaKhomiak/conveyor_belt_object_masking/assets/106553826/159a5ada-da81-4a0a-b5eb-715dc08a954e)
+
 
 
 ### Note:
