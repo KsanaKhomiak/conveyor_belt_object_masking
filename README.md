@@ -12,4 +12,7 @@ Result include approximate mask of the conveyor and applyed tracking window:
 
 
 ### Note:
-project in the process of the improvement and testing on various input data formats.
+Project in the process of the improvement and testing on various input data formats.
+
+
+Video footage were provided by Paweł Trybała, researcher at 3DOM, FBK.
