@@ -7,7 +7,8 @@ Project created to test opportunity of conveyor belt tracking and masking for fu
 Masking was performed by thresholding in HSV and RGB colour models.
 Result include approximate mask of the conveyor and applyed tracking window:
 
-![image](https://github.com/KsanaKhomiak/conveyor_belt_object_masking/assets/106553826/159a5ada-da81-4a0a-b5eb-715dc08a954e)
+
+![conveyor_masking](https://github.com/KsanaKhomiak/conveyor_belt_object_masking/assets/106553826/6211a4de-7da8-43ba-9ced-3d48343de0e0)
 
 
 
