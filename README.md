@@ -8,8 +8,7 @@ Masking was performed by thresholding in HSV and RGB colour models.
 Result include approximate mask of the conveyor and applyed tracking window:
 
 
-![conveyor_masking](https://github.com/KsanaKhomiak/conveyor_belt_object_masking/assets/106553826/6211a4de-7da8-43ba-9ced-3d48343de0e0)
-
+![conveyor_tracking](https://github.com/KsanaKhomiak/conveyor_belt_object_masking/assets/106553826/590a1adf-e5e0-4dc4-b799-1b1cff8d199d)
 
 
 ### Note:
